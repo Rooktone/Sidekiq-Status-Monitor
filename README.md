@@ -24,10 +24,10 @@ In order to access this, you will need to provide the redis url to the app
 ###Configuration
 There are a bunch of configuration variables available to help customize and secure your version of the sidekiq monitor.
 
- *REDIS_URL
- *SIDEKIQ_NAMESPACE
- *SIDEKIQ_MONITOR_USER
- *SIDEKIQ_MONITOR_PASSWORD
+ * REDIS_URL
+ * SIDEKIQ_NAMESPACE
+ * SIDEKIQ_MONITOR_USER
+ * SIDEKIQ_MONITOR_PASSWORD
 
 
 
