@@ -1,0 +1,6 @@
+*.swp
+*.db
+data
+coverage/*
+log/*.log
+.DS_Store
