@@ -31,7 +31,10 @@ SIDEKIQ_MONITOR_PASSWORD
 
 
 
+###IP Whitelisting
+In some cases, you may want to restrict access to a specific ip or range of IPS. There is a configuration file....
 
+TODO
 
 
 
