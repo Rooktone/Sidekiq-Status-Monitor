@@ -30,6 +30,14 @@ There are a bunch of configuration variables available to help customize and sec
  * SIDEKIQ_MONITOR_PASSWORD
 
 
+###Full Example
+
+REDIS_URL=redis://127.0.0.1:6379 SIDEKIQ_NAMESPACE=sidekiq SIDEKIQ_MONITOR_USER=username SIDEKIQ_MONITOR_PASSWORD=mypassword bundle exec rackup -s thin -p 3000
+
+
+
+
+
 
 
 
